@@ -1,3 +1,3 @@
-# E-commercePerfumeria
+# E-commerce
 
 - Author: *CarlDesigner*
